@@ -17,11 +17,13 @@ Usage:
 
 
 Data Model is as simple as this:
+```
 {
   "firstName" : ""
   "lastName" : ""
   "age": ""
 }
+```
 
 TODO:
 * Filter Users by properties
