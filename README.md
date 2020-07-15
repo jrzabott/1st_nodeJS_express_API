@@ -5,12 +5,15 @@ I wanted to make it public, first for having something "recent" in my repo and f
 
 Basically it generates a new instance of http://localhost:5000 and for
 
-/ - It shows a dummy message stating that everything is OK
-/users - list all users in JSON
-/users - POST - created a new user the 
-/users/:id (uuid) - list specific user
-/users/:id (uuid) - PATCH - will update the fields in the Data Model
-/users/:id (uuid) - DELETE - will detele the specified user-
+_____________________________
+
+Usage:
+* / - It shows a dummy message stating that everything is OK
+* /users - list all users in JSON
+* /users - POST - created a new user the 
+* /users/:id (uuid) - list specific user
+* /users/:id (uuid) - PATCH - will update the fields in the Data Model
+* /users/:id (uuid) - DELETE - will detele the specified user-
 
 
 Data Model is as simple as this:
